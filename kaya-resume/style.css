@@ -7,8 +7,8 @@ body {
 }
 
 #container {
-    width: 100%;
-    max-width: 1200px;
+   width: 100%;
+   max-width: 1200px;
    margin: 0 auto;
    padding-bottom: 50px;
 }
@@ -29,6 +29,7 @@ body {
     font-weight: 600;
     text-align: center;
     margin-top: 20px;
+    font-size: 1.5em;
 }
 
 /* section titles */
