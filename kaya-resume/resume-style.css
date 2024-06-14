@@ -13,10 +13,12 @@
 .eduheader {
     font-size: 2em;
     font-family: Koho;
+    font-weight: 700;
 }
 
 .degrees {
     font-size: 1.5em;
+    font-weight: 300;
 }
 
 .experience {
@@ -32,4 +34,44 @@
 .expheader {
     font-size: 2em;
     font-family: Koho;
+    font-weight: 700;
+}
+
+/* job titles */
+.jobtitle {
+    font-weight: 600;
+    font-size: 1.5em;
+   margin-top: 20px;
+}
+
+/* job organizations */
+.organization {
+font-weight: 400;
+font-size: 1.25em;
+}
+
+/* job dates */
+.date {
+    font-weight: 300;
+    font-size: 1em;
+    margin: 2px 0px 0px 0px;
+}
+
+.jobs {
+    margin-top: 50px;
+}
+
+.skills {
+    background-color: #012340;
+    color: #F2F2F2;
+    text-align: center;
+    margin-top: 75px;
+    padding: 15px;
+}
+
+.skillsheader {
+    font-size: 2em;
+    font-family: Koho;
+    font-weight: 700;
+    padding: 10px;
 }
