@@ -8,12 +8,17 @@
     text-align: center;
     font-family: Helvetica;
     padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
 }
 
 .eduheader {
     font-size: 2em;
     font-family: Koho;
     font-weight: 700;
+    text-decoration: underline;
+    padding: 15px;
+
 }
 
 .degrees {
@@ -74,4 +79,5 @@ font-size: 1.25em;
     font-family: Koho;
     font-weight: 700;
     padding: 10px;
+    text-decoration: underline;
 }
