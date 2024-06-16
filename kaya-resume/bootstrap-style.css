@@ -27,7 +27,8 @@ h3 {
 }
 
 .btn {
-    font-family: Special Elite;
+    margin-top: 30px;
+    font-family: Special Elite !important;
 }
 
 .row {
@@ -36,4 +37,8 @@ h3 {
 
 @media only screen and (max-width: 500px) {
     h2 {padding-top: 50px; background-color: teal;}
+}
+
+.bi {
+    font-size: 3em;
 }
