@@ -1,4 +1,50 @@
-#content {
+.headline-byline {
+    text-align: center;
+}
+
+#headline {
+    font-family: Helvetica, sans-serif;
+}
+
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    }
+
+ #content {
     margin: 0 auto;
     width: 900px;
+    font-family: Georgia, serif;
+    font-size: 13px;
+}
+
+.caption {
+    color: #727272;
+    font-size: 12px;
+    text-align: center;
+}
+
+#photo {
+    text-align: center;
+}
+
+blockquote {
+    font-size: 24px;
+    font-style: italic;
+    color: blue;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.more {
+    text-align: center !important;
+}
+
+.related-links {
+    list-style-type: none;
+}
+
+img {
+    text-align: center;
 }
