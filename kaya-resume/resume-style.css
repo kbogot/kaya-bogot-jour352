@@ -2,6 +2,11 @@
     font-family: Helvetica;
 }
 
+.navbar {
+    background-color: #F2F2F2;
+    color:#012340;
+}
+
 .Education {
     background-color: #023373;
     color: #F2F2F2;
