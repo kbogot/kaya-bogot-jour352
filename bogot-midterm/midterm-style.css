@@ -1,0 +1,78 @@
+/*Photo and caption*/
+img {
+    width: 100%;
+}
+
+.caption {
+    color: #727272;
+    font-size: 12px;
+    text-align: left;
+}
+
+/*text*/
+#content {
+    display: block;
+    margin: 0 auto;
+    width: 900px;
+}
+
+#header {
+    text-align: center;
+}
+
+#headline {
+    font-size: 24px;
+}
+
+#subtitle {
+    font-style: italic;
+    font-size: 18px;
+}
+
+#byline {
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+.subhead {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+
+blockquote {
+    font-size: 24px;
+    font-style: italic;
+    color: #D9A273;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.spotify {
+    font-size: 18px;
+    font-weight: bold; 
+    text-align: left;
+    display: block;
+    margin: 0 auto;
+    width: 900px;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+    width: 900px;
+}
+
+/*Related links*/
+.more {
+    text-align: center;
+}
+
+.related-links {
+    list-style-type: none;
+}
