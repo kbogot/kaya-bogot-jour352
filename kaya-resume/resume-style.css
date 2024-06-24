@@ -62,7 +62,7 @@ img {
     text-align: center;
     padding: 15px;
     width: 100%;
-    max-width: 250px;
+    max-width: 300px;
     border-radius: 0px 25px 25px 0px;
 }
 
@@ -70,6 +70,7 @@ img {
     font-size: 2em;
     font-family: Koho;
     font-weight: 700;
+    text-decoration: underline;
 }
 
 /* job titles */
