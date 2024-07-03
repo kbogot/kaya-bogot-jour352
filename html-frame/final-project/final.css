@@ -71,6 +71,14 @@
     width: 1000px;
 }
 
+.chapterhead {
+    font-size: 2em;
+    font-weight: 600;
+    text-align: left;
+    font-family: Euphemia UCAS, 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}
+
 p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     line-height: 180%;
@@ -91,3 +99,10 @@ img {
     font-size: 1em;
 }
 
+.iframe-container {
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+    border: solid 1px black;
+    padding: 10px;
+}
