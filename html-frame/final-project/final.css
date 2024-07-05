@@ -66,17 +66,30 @@
     margin: 0 auto;
 }
 
+.ch-line {
+    border: 3px dashed;
+    color:#FDE20F;
+    width: 1000px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
 .text-container {
     margin: 0 auto;
     width: 1000px;
+    padding: 25px 0px;
 }
 
-.chapterhead {
+#chapterhead {
     font-size: 2em;
     font-weight: 600;
     text-align: left;
     font-family: Euphemia UCAS, 'Times New Roman', Times, serif;
     margin-top: 50px;
+}
+
+.ch-container {
+    width: 1000px;
 }
 
 p {
@@ -89,6 +102,11 @@ img {
     width: 80%;
     display: block;
     margin: 0 auto;
+}
+
+.full-img {
+    width: 100%;
+    border: 3px solid black;
 }
 
 .caption {
@@ -106,3 +124,49 @@ img {
     border: solid 1px black;
     padding: 10px;
 }
+
+.map-container {
+    border: 1px solid black;
+    width: 1000px;
+    display: block;
+    margin: 0 auto;
+}
+
+.footer {
+    text-align: center;
+    font-family: Bai Jamjuree, Helvetica, sans-serif;
+    font-size: 2em;
+    background-color: gray;
+    color: #FDE20F;
+    padding: 25px 0px;
+    width: 100%;
+}
+
+.footer:before, .footer:after {
+    content:'\00a0\00a0\00a0\00a0';
+    text-decoration: line-through;
+    margin: auto 0.5em;
+  }
+
+  .pullquote-line {
+    height: 10px;
+    background: linear-gradient(to right, #FFC6BF,#FFECBF,#FFFEBF,#CFFFBF,#BFECFE,#E6BEFF);
+    width: 800px;
+    margin: 0 auto;
+    border: none;
+}
+
+.pullquote {
+    font-size: 2em;
+    font-family: Euphemia UCAS, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    padding: 30px;
+    width: 800px;
+    font-style: italic;
+}
+
+
+
+
