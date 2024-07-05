@@ -80,7 +80,7 @@
     padding: 25px 0px;
 }
 
-#chapterhead {
+.chapterhead {
     font-size: 2em;
     font-weight: 600;
     text-align: left;
@@ -130,6 +130,7 @@ img {
     width: 1000px;
     display: block;
     margin: 0 auto;
+    padding: 10px;
 }
 
 .footer {
